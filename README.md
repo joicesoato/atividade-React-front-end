@@ -1,4 +1,4 @@
-# 🍕 Pizzaria React - Atividade 5
+# Pizzaria React - Atividade 5
 
 ## Descrição
 Conversão completa do projeto da pizzaria para React, mantendo todas as funcionalidades anteriores e utilizando React Hooks para gerenciamento de estados.
